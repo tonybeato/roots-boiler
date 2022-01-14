@@ -3,3 +3,11 @@ $brand-primary:         #525ddc;
 
 /** Box Model  */
 $spacer:                2rem;
+
+/**
+* Breakpoints
+**/
+$sm: 426px; // Phones to Tablets
+$md: 769px; // Tablets to Laptops
+$lg: 1025px; // Medium to large laptops
+$xl: 1281px; // Large laptops and beyond
